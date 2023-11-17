@@ -1,1 +1,1 @@
-print('Bye Git')
+print("Die git")
